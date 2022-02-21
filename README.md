@@ -1,29 +1,5 @@
-# React Nice Resume :page_with_curl:
+# Welcome to my personal webstie :page_with_curl:
+Hi, my name is Carl and this is my resume/personal website.
 
-### [LIVE DEMO](https://nordicgiant2.github.io/react-nice-resume-page/index.html)
-
-![img](https://github.com/nordicgiant2/react-nice-resume/blob/master/public/images/img.jpg?raw=true)
-
-# About [`particles-bg`](https://github.com/lindelof/particles-bg) Library
-#### This project uses the react particle background component library [https://github.com/lindelof/particles-bg](https://github.com/lindelof/particles-bg). It's very simple. Anyone can be a Musketeer with it.
-
-![img](https://github.com/lindelof/particles-bg/raw/master/image/03.jpg?raw=true)
-
-# Description
-This project forks from [https://github.com/tbakerx/react-resume-template](https://github.com/tbakerx/react-resume-template), I made some modifications and adjustments, thanks to the [author](https://github.com/tbakerx).
-
-![img](https://github.com/nordicgiant2/react-nice-resume/blob/master/public/images/img2.jpg?raw=true)
-
-# Run Project
-### 1. Clone the project
-
-### 2. Run the project
-```shell
-npm i
-npm start
-```
-
-### 3. Build
-```shell
-npm run build
-```
+## Disclaimer: 
+This website is coded by modifying the template which github user Nordic Giant has published under the repository [https://github.com/nordicgiant2/react-nice-resume] which was a modificaiton of the template which github user tbakerx published under the repository https://github.com/tbakerx/react-resume-template. Its original license is included in this current repository. The website is coded for personal use only.
