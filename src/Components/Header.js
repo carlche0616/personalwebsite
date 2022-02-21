@@ -11,10 +11,12 @@ class Header extends Component {
     const name = this.props.data.name;
     const description = this.props.data.description;
 
+  
+
     return (
       <header id="home">
-        {/* <ParticlesBg type="cobweb" color="F6F8ED" bg={true}/> */}
-
+        <ParticlesBg type="circle" color = {["61a0a0"]} num = {8} bg={true} />
+        {/* "#f8eded","#edf6f8","#efeff8" F6F8ED */}
         <nav id="nav-wrap">
           <a className="mobile-btn" href="#nav-wrap" title="Show navigation">
             Show navigation
@@ -72,7 +74,7 @@ class Header extends Component {
             <Fade bottom duration={1200}>
               <h3>{description}.</h3>
             </Fade>
-            <hr />
+            {/* <hr /> */}
             {/* <Fade bottom duration={2000}>
               <ul className="social">
                 <a href={project} className="button btn project-btn">
