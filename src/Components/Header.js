@@ -15,8 +15,8 @@ class Header extends Component {
 
     return (
       <header id="home">
-        <ParticlesBg type="circle" color = {["61a0a0"]} num = {8} bg={true} />
-        {/* "#f8eded","#edf6f8","#efeff8" F6F8ED */}
+        <ParticlesBg type="square" num = {6} bg={true} />
+        {/* "#f8eded","#edf6f8","#efeff8" F6F8ED 61a0a0*/}
         <nav id="nav-wrap">
           <a className="mobile-btn" href="#nav-wrap" title="Show navigation">
             Show navigation
