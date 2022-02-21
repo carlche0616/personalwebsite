@@ -1,4 +1,4 @@
-# Welcome to my personal webstie :page_with_curl:
+# Welcome to my webstie :page_with_curl:
 Hi, my name is Carl and this is my resume/personal website.
 
 ## Disclaimer: 
