@@ -15,7 +15,7 @@
       "zip": "M2N 7G6"
     },
     "website": "https://github.com/carlche",
-    "resumedownload":"https://drive.google.com/file/d/1fsHPeLJKcbi2s4qCNhdJQEVHvVlfFnEt/view",
+    "resumedownload":"https://drive.google.com/file/d/1nvA4fjkGc-9aZ9bBQx3R2L21mLq_VBt3/view?usp=sharing",
     "social":[
       {
         "name":"facebook",
@@ -61,7 +61,7 @@
         "company":"Equifax Canada",
         "title":"Quality Automation Engineer ",
         "years":"Sept 2021 - Present",
-        "description":"I help achieve automation testing on decision engines that check a person's credit status whenever a request for a new line of credit is made. The tech stack currently includes Javascript and the Cucumber + Karate framework. \n\nI am a part of a small QA team where we each have our own project to be responsible of but will help out others when needed."
+        "description":"I help achieve automation testing on decision engines that check a person's credit status whenever a request for a new line of credit is made. The tech stack currently includes Python, Javascript and the Cucumber + Karate framework. \n\nI am a part of a small QA team where we each have our own project to be responsible of but will help out others when needed."
       },
       {
         "company":"Eloqua - Oracle Canada",
