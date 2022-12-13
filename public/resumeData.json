@@ -61,7 +61,7 @@
         "company":"Equifax Canada",
         "title":"Quality Automation Engineer ",
         "years":"Sept 2021 - Present",
-        "description":"I help achieve automation testing on decision engines that check a person's credit status whenever a request for a new line of credit is made. The tech stack currently includes Javascript and the Cucumber + Karate framework. \n\nI am a part of a small QA team where we each have our own project to be responsible of but will help out others when needed."
+        "description":"I help achieve automation testing on decision engines that check a person's credit status whenever a request for a new line of credit is made. I have designed and implemented my own testing framework. The tech stack currently includes Javascript, the Cucumber + Karate framework and Python. \n\nI am a part of a small QA team where we each have our own project to be responsible of but will help out others when needed."
       },
       {
         "company":"Eloqua - Oracle Canada",
@@ -70,16 +70,10 @@
         "description":"At this cloud marketing company, I automated unit, E2E and load tests for Salesforce, Infinity and WeChat integration applications using Java, testing frameworks Selenium, TestNG, Appium and testing tools Postman and Cypress. I also performed functional and regression tests regularly, documented test tickets and plans on JIRA and Confluence pages. On one occasion I developed features of a mock service API for testing with RESTful design using Java.\n\nThis is where I learned the basics of being a tech professional. I had an in-depth understanding of the roadmap-to-release cycle of a software and Agile developing environment."
       },
       {
-        "company":"Ningbo Commerce Bank",
-        "title":"IT Department Intern Developer ",
-        "years":"July 2020 - August 2020",
-        "description":"Within the time period of two months I finished a few tasks including making front-end changes to a mobile banking application using JavaScript, React and Vue and analyzing the back-end system structure of the mobile banking application."
-      },
-      {
         "company":"Bank of Shanghai, Ningbo Branch",
         "title":"IT Department Intern Developer ",
         "years":"May 2018 - July 2018",
-        "description":"Developed features of a SSO web application in both back-end(RESTful API) using Java, SprintBoot and front-end(web pages) using JavaScript. Performed manual tests on a city-wide integration system for bank transfer records."
+        "description":"Within the time period of two months I finished a few tasks including making front-end changes to a mobile banking application using JavaScript, React and Vue, analyzing the back-end system structure of the mobile banking application and developing features of a SSO web application in both back-end(RESTful API) using Java, SprintBoot and front-end(web pages) using JavaScript. I also performed manual tests on a city-wide integration system for bank transfer records."
       }
     ]
   },
@@ -116,13 +110,5 @@
   ]
 },
   "portfolio":{
-    "projects": [
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"01.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      }
-    ]
   }
 }
