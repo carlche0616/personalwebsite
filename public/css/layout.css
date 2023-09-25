@@ -235,7 +235,7 @@ ul#nav li.current a { color: #1abc9c; }
 #resume {
    background: #F6F8ED;
    padding-top: 90px;
-   padding-bottom: 72px;
+   padding-bottom: 36px;
    overflow: hidden;
 }
 
@@ -259,8 +259,8 @@ ul#nav li.current a { color: #1abc9c; }
 #resume .main-col { padding-right: 10%; }
 
 .education {
-   margin-bottom: 48px;
-   padding-bottom: 24px;
+   margin-bottom: 24px;
+   padding-bottom: 12px;
    border-bottom: 1px solid #E8E8E8;
 }
 
@@ -278,7 +278,55 @@ ul#nav li.current a { color: #1abc9c; }
    font: 15px/24px 'opensans-regular', sans-serif;
    margin-top: 6px;
 }
+/*----------------------------------------------*/
+/*	Certification
+/*----------------------------------------------*/
 
+#certification {
+   margin-bottom: 48px;
+   padding-top: 36px;
+   padding-bottom: 24px;
+   border-bottom: 1px solid #E8E8E8;
+   overflow: hidden;
+}
+
+#certification {
+   background: #F6F8ED;
+   padding-top: 48px;
+   padding-bottom: 54px;
+   overflow: hidden;
+}
+
+#certification a, #certification a:visited  { color: #0762f9; }
+#certification a:hover, #certification a:focus { color: #313131; }
+
+#certification h1 {
+   font: 18px/24px 'opensans-bold', sans-serif;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+}
+
+#certification h1 span {
+   border-bottom: 3px solid #0762f9;
+   padding-bottom: 6px;
+}
+
+#certification pre {
+   color: #838c95;
+   font-weight: normal;
+   font-size: 15px;
+   line-height: 30px;
+   font-family: 'opensans-regular', sans-serif;
+   margin-top: 5px;
+   margin-bottom: 22px;
+}
+
+#certification p {
+   font-weight: normal;
+   font-size: 16px;
+   font-family: 'librebaskerville-italic', serif;
+   margin-block-end: 20px;
+}
 /*----------------------------------------------*/
 /*	Work Experience
 /*----------------------------------------------*/
@@ -287,6 +335,7 @@ ul#nav li.current a { color: #1abc9c; }
    margin-bottom: 48px;
    padding-bottom: 24px;
    border-bottom: 1px solid #E8E8E8;
+   overflow: hidden;
 }
 
 #work {

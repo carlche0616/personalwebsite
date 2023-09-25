@@ -1,12 +1,12 @@
 {
   "main": {
     "name":"Weiyuan Che(Carl)",
-    "description":"A tech passionate hard-working computer science graduate and IT professional. Quality Automation Engineer at Equifax.",
+    "description":"A tech passionate hard-working computer science graduate and IT professional. Quality Automation Engineer at Equifax",
     "image":"profilepic.jpg",
     "bio":"Sports fan, workout enjoyer, drill rap lover and beginner Go student trying to learn the world's culture through reading while working as an Automation Tester. Born in Ningbo, China, came to Toronto on a purpose. Currently empolyed by Equifax Canada as a Quality Automation Engineer.",
     "contactmessage":"Please message below if you have any inquiries. Looking forward to hearing from you!",
     "email": "carlche0616@gmail.com",
-    "phone": "323-455-4678",
+    "phone": "647-886-1561",
     "github":"https://github.com/carlche",
     "project":"https://github.com/carlche/personalwebsite",
     "address":{
@@ -55,13 +55,23 @@
       }
     ]
   },
+  "certification":{
+    "certificates":[
+      {
+        "origin":"Amazon Web Services",
+        "title":"AWS Certified Developer - Associate ",
+        "years":"May 2023 - May 2026",
+        "description":"Earned certification from Amazon Web Services (AWS) demonstrating proficiency in designing, developing, and deploying applications on the AWS platform. Validates expertise in AWS services, application development, security, troubleshooting, and cost optimization."
+      }
+    ]
+  },
   "work":{
     "works":[
       {
         "company":"Equifax Canada",
         "title":"Quality Automation Engineer ",
         "years":"Sept 2021 - Present",
-        "description":"I help achieve automation testing on decision engines that check a person's credit status whenever a request for a new line of credit is made. I have designed and implemented my own testing framework. The tech stack currently includes Javascript, the Cucumber + Karate framework and Python. \n\nI am a part of a small QA team where we each have our own project to be responsible of but will help out others when needed."
+        "description":"I help achieve automation testing on decision engines that check a person's credit status whenever a request for a new line of credit is made. I have designed and implemented a UI automation testing tool and my own automation testing framework. The tech stack currently includes Javascript, the Cucumber + Karate framework and Python. \n\nI am a part of a small QA team where we each have our own project to be responsible of but will help out others when needed."
       },
       {
         "company":"Eloqua - Oracle Canada",
