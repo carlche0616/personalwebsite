@@ -1,9 +1,9 @@
 {
   "main": {
     "name":"Weiyuan Che(Carl)",
-    "description":"A tech passionate hard-working computer science graduate and IT professional. Quality Automation Engineer at Equifax",
+    "description":"A tech passionate hard-working computer science graduate and IT professional. Currently seeking the role of Software Developer",
     "image":"profilepic.jpg",
-    "bio":"Sports fan, workout enjoyer, drill rap lover and beginner Go student trying to learn the world's culture through reading while working as an Automation Tester. Born in Ningbo, China, came to Toronto on a purpose. Currently empolyed by Equifax Canada as a Quality Automation Engineer.",
+    "bio":"Sports fan, workout enjoyer, drill rap lover and beginner Go student trying to learn the world's culture through reading while continuing my career in IT. Born in Ningbo, China, came to Toronto on a purpose.",
     "contactmessage":"Please message below if you have any inquiries. Looking forward to hearing from you!",
     "email": "carlche0616@gmail.com",
     "phone": "647-886-1561",
@@ -70,7 +70,7 @@
       {
         "company":"Equifax Canada",
         "title":"Quality Automation Engineer ",
-        "years":"Sept 2021 - Present",
+        "years":"Sept 2021 - Sept 2023",
         "description":"I help achieve automation testing on decision engines that check a person's credit status whenever a request for a new line of credit is made. I have designed and implemented a UI automation testing tool and my own automation testing framework. The tech stack currently includes Javascript, the Cucumber + Karate framework and Python. \n\nI am a part of a small QA team where we each have our own project to be responsible of but will help out others when needed."
       },
       {
