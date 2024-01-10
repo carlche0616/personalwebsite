@@ -15,7 +15,7 @@
       "zip": "M2N 7G6"
     },
     "website": "https://github.com/carlche",
-    "resumedownload":"https://drive.google.com/file/d/1ZdyAuzU6pRIU5zBcagrfiRryPYuoCvAL/view?usp=sharing",
+    "resumedownload":"https://drive.google.com/file/d/1ZdyAuzU6pRIU5zBcagrfiRryPYuoCvAL/view?usp=drive_link",
     "social":[
       {
         "name":"facebook",
@@ -62,6 +62,12 @@
         "title":"AWS Certified Developer - Associate ",
         "years":"May 2023 - May 2026",
         "description":"Earned certification from Amazon Web Services (AWS) demonstrating proficiency in designing, developing, and deploying applications on the AWS platform. Validates expertise in AWS services, application development, security, troubleshooting, and cost optimization."
+      },
+      {
+        "origin":"Google Cloud Platform",
+        "title":"Associate Cloud Engineer ",
+        "years":"Jan 2024 - Jan 2027",
+        "description":"Earned certification from Google Cloud Platform (GCP) demonstrating skills and knowledge necessary for an individual to deploy applications, monitor operations, and manage enterprise solutions on Google Cloud."
       }
     ]
   },
