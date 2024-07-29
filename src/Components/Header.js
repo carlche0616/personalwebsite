@@ -39,8 +39,8 @@ class Header extends Component {
             </li>
 
             <li>
-              <a className="smoothscroll" href="#resume">
-                Education
+              <a className="smoothscroll" href="#work">
+                Work
               </a>
             </li>
 
@@ -51,8 +51,8 @@ class Header extends Component {
             </li>
 
             <li>
-              <a className="smoothscroll" href="#work">
-                Work
+              <a className="smoothscroll" href="#resume">
+                Education
               </a>
             </li>
 
