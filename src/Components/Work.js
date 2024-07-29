@@ -14,15 +14,20 @@ class Work extends Component {
   render() {
     if (!this.props.data) return null;
 
-    const works = this.props.data.works.map(function (works) {
+    const works = this.props.data.works.map(work => {
       return (
-        <div key={works.company}>
-          <h3>{works.company}</h3>
-          <p className="info">
-            {works.title}
-            <span>&bull;</span> <em className="date">{works.years}</em>
-          </p>
-          <pre>{works.description}</pre>
+        <div key={work.company}>
+          <h3>{work.company}</h3>
+          {work.positions.map(position => {
+            return (
+              <p className="info">
+                {position.title}
+                <span>&bull;</span> <em className="date">{position.years}</em>
+              </p>
+            )
+          })}
+
+          <pre>{work.description}</pre>
         </div>
       );
     });

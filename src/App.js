@@ -5,7 +5,7 @@ import "./App.css";
 import Header from "./Components/Header";
 import Footer from "./Components/Footer";
 import About from "./Components/About";
-import Resume from "./Components/Resume";
+import Education from "./Components/Education";
 import Certification from "./Components/Certification";
 import Work from "./Components/Work";
 import Skills from "./Components/Skills";
@@ -48,7 +48,7 @@ class App extends Component {
       <div className="App">
         <Header data={this.state.resumeData.main} />
         <About data={this.state.resumeData.main} />
-        <Resume data={this.state.resumeData.resume} />
+        <Education data={this.state.resumeData.educations} />
         <Certification data={this.state.resumeData.certification} />
         <Work data={this.state.resumeData.work} />
         <Skills data={this.state.resumeData.skills} />

@@ -1,130 +1,148 @@
 {
   "main": {
-    "name":"Weiyuan Che(Carl)",
-    "description":"A tech passionate hard-working computer science graduate and IT professional. Currently seeking the role of Software Developer",
-    "image":"profilepic.jpg",
-    "bio":"Sports fan, workout enjoyer, drill rap lover and beginner Go student trying to learn the world's culture through reading while continuing my career in IT. Born in Ningbo, China, came to Toronto on a purpose.",
-    "contactmessage":"Please message below if you have any inquiries. Looking forward to hearing from you!",
+    "name": "Weiyuan Che (Carl)",
+    "description": "A tech passionate hard-working computer science graduate and IT professional. Currently seeking the role of QA Lead",
+    "image": "profilepic.jpg",
+    "bio": "Sports fan, workout enjoyer, drill rap lover and beginner Go student trying to learn the world's culture through reading while continuing my career in IT. Born in Ningbo, China, came to Toronto on a purpose.",
+    "contactmessage": "Please message below if you have any inquiries. Looking forward to hearing from you!",
     "email": "carlche0616@gmail.com",
     "phone": "647-886-1561",
-    "github":"https://github.com/carlche",
-    "project":"https://github.com/carlche/personalwebsite",
-    "address":{
-      "city":"Toronto",
-      "state":"Ontario",
+    "github": "https://github.com/carlche",
+    "project": "https://github.com/carlche/personalwebsite",
+    "address": {
+      "city": "Toronto",
+      "state": "Ontario",
       "zip": "M2N 7G6"
     },
     "website": "https://github.com/carlche",
-    "resumedownload":"https://drive.google.com/file/d/1ZdyAuzU6pRIU5zBcagrfiRryPYuoCvAL/view?usp=drive_link",
-    "social":[
+    "resumedownload": "https://drive.google.com/file/d/1ZdyAuzU6pRIU5zBcagrfiRryPYuoCvAL/view?usp=drive_link",
+    "social": [
       {
-        "name":"facebook",
-        "url":"https://github.com/carlche/personalwebsite",
-        "className":"fa fa-facebook"
+        "name": "facebook",
+        "url": "https://github.com/carlche/personalwebsite",
+        "className": "fa fa-facebook"
       },
       {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
       },
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
-        "className":"fa fa-linkedin"
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className": "fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
+        "name": "instagram",
+        "url": "http://instagram.com/tbaker_x",
+        "className": "fa fa-instagram"
       },
       {
-        "name":"github",
-        "url":"https://github.com/carlche/personalwebsite",
-        "className":"fa fa-github"
+        "name": "github",
+        "url": "https://github.com/carlche/personalwebsite",
+        "className": "fa fa-github"
       }
     ]
   },
-  "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
-    "education":[
+  "educations": {
+    "education": [
       {
-        "school":"University of Toronto St.George Campus",
-        "degree":"Honour Bachelor of Science",
-        "graduated":"June 2021",
-        "description":"The University of Toronto is where I completed my undergraduate studies. After 4+1 years of scrolling up and down on the course notes, aggressively typing on the lab computer late at night and repeatedly calculated the final marks, I managed to obtain knowledge on a variety of IT related topics such as coding languages, project designs, machine learning and the business of software."
+        "school": "University of Toronto St.George Campus",
+        "degree": "Honour Bachelor of Science",
+        "graduated": "June 2021",
+        "description": "The University of Toronto is where I completed my undergraduate studies. After 4+1 years of scrolling up and down on the course notes, aggressively typing on the lab computer late at night and repeatedly calculated the final marks, I managed to obtain knowledge on a variety of IT related topics such as coding languages, project designs, machine learning and the business of software."
       }
     ]
   },
-  "certification":{
-    "certificates":[
+  "certification": {
+    "certificates": [
       {
-        "origin":"Amazon Web Services",
-        "title":"AWS Certified Developer - Associate ",
-        "years":"May 2023 - May 2026",
-        "description":"Earned certification from Amazon Web Services (AWS) demonstrating proficiency in designing, developing, and deploying applications on the AWS platform. Validates expertise in AWS services, application development, security, troubleshooting, and cost optimization."
+        "origin": "Amazon Web Services",
+        "title": "AWS Certified Developer - Associate ",
+        "years": "May 2023 - May 2026",
+        "description": "Earned certification from Amazon Web Services (AWS) demonstrating proficiency in designing, developing, and deploying applications on the AWS platform. Validates expertise in AWS services, application development, security, troubleshooting, and cost optimization."
       },
       {
-        "origin":"Google Cloud Platform",
-        "title":"Associate Cloud Engineer ",
-        "years":"Jan 2024 - Jan 2027",
-        "description":"Earned certification from Google Cloud Platform (GCP) demonstrating skills and knowledge necessary for an individual to deploy applications, monitor operations, and manage enterprise solutions on Google Cloud."
+        "origin": "Google Cloud Platform",
+        "title": "Associate Cloud Engineer ",
+        "years": "Jan 2024 - Jan 2027",
+        "description": "Earned certification from Google Cloud Platform (GCP) demonstrating skills and knowledge necessary for an individual to deploy applications, monitor operations, and manage enterprise solutions on Google Cloud."
       }
     ]
   },
-  "work":{
-    "works":[
+  "work": {
+    "works": [
       {
-        "company":"Equifax Canada",
-        "title":"Quality Automation Engineer ",
-        "years":"Sept 2021 - Sept 2023",
-        "description":"I help achieve automation testing on decision engines that check a person's credit status whenever a request for a new line of credit is made. I have designed and implemented a UI automation testing tool and my own automation testing framework. The tech stack currently includes Javascript, the Cucumber + Karate framework and Python. \n\nI am a part of a small QA team where we each have our own project to be responsible of but will help out others when needed."
+        "company": "Equifax Canada",
+        "positions": [
+          {
+            "title": "Quality Assurance Lead ",
+            "years": "Jun 2024 - Present"
+          },
+          {
+            "title": "Intermediate Quality Automation Engineer ",
+            "years": "Mar 2024 - Jun 2024"
+          },
+          {
+            "title": "Quality Automation Engineer ",
+            "years": "Sept 2021 - Sept 2023"
+          }
+        ],
+        "description": "I designed the test plans and managed a team of QA engineers in assuring the quality of for 40+ credit decisioning projects with over 100k annual transactions. All products released achieved zero post-production issues in all releases. Currently I am leading the QA process for a global consumer credit project which is projected to make credit access easier for immigrants.\n\nI have designed and implemented a UI automation testing tool and my own automation testing framework. The tech stack currently includes Javascript, the Cucumber + Karate framework and Python."
       },
       {
-        "company":"Eloqua - Oracle Canada",
-        "title":"Quality Assurance Analyst ",
-        "years":"May 2019 - April 2020",
-        "description":"At this cloud marketing company, I automated unit, E2E and load tests for Salesforce, Infinity and WeChat integration applications using Java, testing frameworks Selenium, TestNG, Appium and testing tools Postman and Cypress. I also performed functional and regression tests regularly, documented test tickets and plans on JIRA and Confluence pages. On one occasion I developed features of a mock service API for testing with RESTful design using Java.\n\nThis is where I learned the basics of being a tech professional. I had an in-depth understanding of the roadmap-to-release cycle of a software and Agile developing environment."
+        "company": "Eloqua - Oracle Canada",
+        "positions": [
+          {
+            "title": "Quality Assurance Analyst ",
+            "years": "May 2019 - April 2020"
+          }
+        ],
+        "description": "At this cloud marketing company, I automated unit, E2E and load tests for Salesforce, Infinity and WeChat integration applications using Java, testing frameworks Selenium, TestNG, Appium and testing tools Postman and Cypress. I also performed functional and regression tests regularly, documented test tickets and plans on JIRA and Confluence pages. On one occasion I developed features of a mock service API for testing with RESTful design using Java.\n\nThis is where I learned the basics of being a tech professional. I had an in-depth understanding of the roadmap-to-release cycle of a software and Agile developing environment."
       },
       {
-        "company":"Bank of Shanghai, Ningbo Branch",
-        "title":"IT Department Intern Developer ",
-        "years":"May 2018 - July 2018",
-        "description":"Within the time period of two months I finished a few tasks including making front-end changes to a mobile banking application using JavaScript, React and Vue, analyzing the back-end system structure of the mobile banking application and developing features of a SSO web application in both back-end(RESTful API) using Java, SprintBoot and front-end(web pages) using JavaScript. I also performed manual tests on a city-wide integration system for bank transfer records."
+        "company": "Bank of Shanghai, Ningbo Branch",
+        "positions": [
+          {
+            "title": "IT Department Intern Developer ",
+            "years": "May 2018 - July 2018"
+          }
+        ],
+        "description": "Within the time period of two months I finished a few tasks including making front-end changes to a mobile banking application using JavaScript, React and Vue, analyzing the back-end system structure of the mobile banking application and developing features of a SSO web application in both back-end(RESTful API) using Java, SprintBoot and front-end(web pages) using JavaScript. I also performed manual tests on a city-wide integration system for bank transfer records."
       }
     ]
   },
-  "skills":{
-    "skills":[
-    {
-      "name":"Python",
-      "level":"80%"
-    },
-    {
-      "name":"Java",
-      "level":"80%"
-    },
-    {
-      "name":"JavaScript",
-      "level":"60%"
-    },
-    {
-      "name":"React",
-      "level":"50%"
-    },
-    {
-      "name":"SQL",
-      "level":"70%"
-    },
-    {
-      "name":"Karate",
-      "level":"60%"
-    },
-    {
-      "name":"Selenium",
-      "level":"70%"
-    }
-  ]
-},
-  "portfolio":{
-  }
+  "skills": {
+    "skills": [
+      {
+        "name": "Python",
+        "level": "80%"
+      },
+      {
+        "name": "Java",
+        "level": "80%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "60%"
+      },
+      {
+        "name": "React",
+        "level": "50%"
+      },
+      {
+        "name": "SQL",
+        "level": "70%"
+      },
+      {
+        "name": "Karate",
+        "level": "60%"
+      },
+      {
+        "name": "Selenium",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {}
 }
