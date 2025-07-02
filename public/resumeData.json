@@ -1,7 +1,7 @@
 {
   "main": {
     "name": "Weiyuan Che (Carl)",
-    "description": "A tech passionate hard-working computer science graduate and IT professional. Currently seeking the role of QA Lead",
+    "description": "An experienced passionate hard-working computer science graduate and IT professional. Currently seeking the role of QA Lead",
     "image": "profilepic.jpg",
     "bio": "Sports fan, workout enjoyer, drill rap lover and beginner Go student trying to learn the world's culture through reading while continuing my career in IT. Born in Ningbo, China, came to Toronto on a purpose.",
     "contactmessage": "Please message below if you have any inquiries. Looking forward to hearing from you!",
@@ -12,7 +12,7 @@
     "address": {
       "city": "Toronto",
       "state": "Ontario",
-      "zip": "M2N 7G6"
+      "zip": "M4P 0G1"
     },
     "website": "https://github.com/carlche",
     "resumedownload": "https://drive.google.com/file/d/1ZdyAuzU6pRIU5zBcagrfiRryPYuoCvAL/view?usp=drive_link",
@@ -76,19 +76,19 @@
         "company": "Equifax Canada",
         "positions": [
           {
-            "title": "Quality Assurance Lead ",
-            "years": "Jun 2024 - Present"
+            "title": "Senior Quality Automation Engineer & QA Lead",
+            "years": "Jun 2025 - Present"
           },
           {
-            "title": "Intermediate Quality Automation Engineer ",
-            "years": "Mar 2024 - Jun 2024"
+            "title": "Intermediate Quality Automation Engineer & QA Lead",
+            "years": "Mar 2024 - Jun 2025"
           },
           {
             "title": "Quality Automation Engineer ",
             "years": "Sept 2021 - Sept 2023"
           }
         ],
-        "description": "I designed the test plans and managed a team of QA engineers in assuring the quality of for 40+ credit decisioning projects with over 100k annual transactions. All products released achieved zero post-production issues in all releases. Currently I am leading the QA process for a global consumer credit project which is projected to make credit access easier for immigrants.\n\nI have designed and implemented a UI automation testing tool and my own automation testing framework. The tech stack currently includes Javascript, the Cucumber + Karate framework and Python."
+        "description": "I designed the test plans and managed a team of QA engineers in assuring the quality of for 100+ credit decisioning projects with over 100M annual transactions and $150M annual revenue. All products released achieved zero post-production issues in all releases.\n\nCurrently I am leading the QA process for a global consumer credit project which is projected to make credit access easier for immigrants. (Toronto Star article for this project: https://shorturl.at/6i3Th)\n\nI have designed and implemented a UI automation testing tool and my own automation testing framework. The tech stack currently includes Javascript, the Cucumber + Karate framework and Python."
       },
       {
         "company": "Eloqua - Oracle Canada",
@@ -116,7 +116,7 @@
     "skills": [
       {
         "name": "Python",
-        "level": "80%"
+        "level": "70%"
       },
       {
         "name": "Java",
@@ -124,23 +124,23 @@
       },
       {
         "name": "JavaScript",
-        "level": "60%"
+        "level": "70%"
       },
       {
         "name": "React",
-        "level": "50%"
+        "level": "65%"
       },
       {
         "name": "SQL",
-        "level": "70%"
+        "level": "50%"
       },
       {
         "name": "Karate",
-        "level": "60%"
+        "level": "85%"
       },
       {
         "name": "Selenium",
-        "level": "70%"
+        "level": "75%"
       }
     ]
   },
